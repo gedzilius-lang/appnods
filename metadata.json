@@ -1,0 +1,8 @@
+{
+  "name": "NiteOS",
+  "description": "The Operating System for the Night Economy. A unified infrastructure for Entry, Spend, and Identity.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": "Update the app to reflect the NiteOS branding and the Chameleon Network strategy."
+}
